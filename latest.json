@@ -1,0 +1,14 @@
+{
+  "version": "0.3.3",
+  "build_number": 37,
+  "apk_url": "https://github.com/tfarrag2000/mawaidy/releases/download/v0.3.3/mawaidy-v0.3.3-arm64-v8a.apk",
+  "latest_apk_url": "https://github.com/tfarrag2000/mawaidy/releases/download/v0.3.3/mawaidy-v0.3.3-arm64-v8a.apk",
+  "apk_sha256": "e8aada1900b9aa12c652d3f6c79a86e1a2970c759efd00ed606a4c262b3b8dba",
+  "web_url": "https://tfarrag2000.github.io/mawaidy/pwa/",
+  "release_url": "https://github.com/tfarrag2000/mawaidy-src/releases/tag/v0.3.3",
+  "date": "2026-11-21",
+  "priority": "silent",
+  "min_supported_build": 35,
+  "notes_ar": "تحسينات في الأمان وحماية أقوى لبيانات الدخول. وإذا فتحت رابط حجز غير صالح أو قديم، تظهر لك رسالة واضحة بذلك.",
+  "notes_en": "Security improvements and stronger protection for your sign-in data. If you open an invalid or old booking link, you now see a clear message."
+}
