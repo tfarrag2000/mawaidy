@@ -1,0 +1,1 @@
+bc77dbcd0c18192e45eed3ffccdb3bbbd66148efe009e4455f0928f4cbe2a889  mawaidy-v0.3.4-arm64-v8a.apk

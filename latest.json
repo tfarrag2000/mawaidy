@@ -1,0 +1,14 @@
+{
+  "version": "0.3.4",
+  "build_number": 38,
+  "apk_url": "https://github.com/tfarrag2000/mawaidy/releases/download/v0.3.4/mawaidy-v0.3.4-arm64-v8a.apk",
+  "latest_apk_url": "https://github.com/tfarrag2000/mawaidy/releases/download/v0.3.4/mawaidy-v0.3.4-arm64-v8a.apk",
+  "apk_sha256": "bc77dbcd0c18192e45eed3ffccdb3bbbd66148efe009e4455f0928f4cbe2a889",
+  "web_url": "https://tfarrag2000.github.io/mawaidy/pwa/",
+  "release_url": "https://github.com/tfarrag2000/mawaidy-src/releases/tag/v0.3.4",
+  "date": "2026-11-23",
+  "priority": "silent",
+  "min_supported_build": 35,
+  "notes_ar": "اعتماد التشكيل العربي الكامل لاسم «مَوَاعِيدِي» في جميع شاشات التطبيق وعلى أيقونة الهاتف والوثائق الرسمية.",
+  "notes_en": "Updated the Arabic brand name across the app, home screen icon, and official pages."
+}
