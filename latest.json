@@ -1,0 +1,14 @@
+{
+  "version": "0.3.5",
+  "build_number": 39,
+  "apk_url": "https://github.com/tfarrag2000/mawaidy/releases/download/v0.3.5/mawaidy-v0.3.5-arm64-v8a.apk",
+  "latest_apk_url": "https://github.com/tfarrag2000/mawaidy/releases/download/v0.3.5/mawaidy-v0.3.5-arm64-v8a.apk",
+  "apk_sha256": "e7e701a84d3c4b7a1555aa7232f21a932484bfcc42ad4dc6dd278c3afc588205",
+  "web_url": "https://tfarrag2000.github.io/mawaidy/pwa/",
+  "release_url": "https://github.com/tfarrag2000/mawaidy-src/releases/tag/v0.3.5",
+  "date": "2026-11-23",
+  "priority": "silent",
+  "min_supported_build": 35,
+  "notes_ar": "تحسين اسم التطبيق على شاشة الهاتف لسهولة البحث والوضوح، مع الحفاظ على التشكيل العربي «مَوَاعِيدِي» داخل التطبيق.",
+  "notes_en": "Refined the home screen app label for easier search while keeping the full Arabic branding inside the app."
+}
