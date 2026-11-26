@@ -1,0 +1,14 @@
+{
+  "version": "0.3.6",
+  "build_number": 40,
+  "apk_url": "https://github.com/tfarrag2000/mawaidy/releases/download/v0.3.6/mawaidy-v0.3.6-arm64-v8a.apk",
+  "latest_apk_url": "https://github.com/tfarrag2000/mawaidy/releases/download/v0.3.6/mawaidy-v0.3.6-arm64-v8a.apk",
+  "apk_sha256": "66370bf78ae3624b522ea89b504a7ec981bf627945171aa48d9593622e8d8e07",
+  "web_url": "https://tfarrag2000.github.io/mawaidy/pwa/",
+  "release_url": "https://github.com/tfarrag2000/mawaidy-src/releases/tag/v0.3.6",
+  "date": "2026-11-26",
+  "priority": "normal",
+  "min_supported_build": 35,
+  "notes_ar": "تحسين فتح التطبيق عند ضعف الإنترنت أو انقطاعه حتى تعمل الشاشة الترحيبية ووضع التجربة بسرعة دون تعليق، مع دعم فتح نسخة الويب دون اتصال.",
+  "notes_en": "Improved app startup on slow or offline Wi-Fi so the welcome screen and demo mode open quickly without hanging, plus offline shell support for the web app."
+}
