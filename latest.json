@@ -1,0 +1,14 @@
+{
+  "version": "0.3.7",
+  "build_number": 41,
+  "apk_url": "https://github.com/tfarrag2000/mawaidy/releases/download/v0.3.7/mawaidy-v0.3.7-arm64-v8a.apk",
+  "latest_apk_url": "https://github.com/tfarrag2000/mawaidy/releases/download/v0.3.7/mawaidy-v0.3.7-arm64-v8a.apk",
+  "apk_sha256": "25cdfd20c5cbfc89e87c7033a6a20f76599ce327f90079a823065c77743b7ebd",
+  "web_url": "https://tfarrag2000.github.io/mawaidy/pwa/",
+  "release_url": "https://github.com/tfarrag2000/mawaidy-src/releases/tag/v0.3.7",
+  "date": "2026-11-27",
+  "priority": "silent",
+  "min_supported_build": 35,
+  "notes_ar": "توحيد اسم تطبيق مواعيدي وهويته النصية عبر أندرويد والويب وسطح المكتب، وتوحيد أسماء ملفات التقارير المصدّرة.",
+  "notes_en": "Unified Mawaidy app naming and text identity across Android, Web, and Desktop, plus standardized exported report filenames."
+}
